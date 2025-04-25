@@ -1,4 +1,4 @@
-# 🛍️ Amazon Clone
+# Amazon Clone
 
 A simple and clean clone of the Amazon landing page built using **HTML, CSS, and Bootstrap**. This project is a front-end replica that mimics the layout and design elements of the Amazon homepage for learning and practice purposes.
 
